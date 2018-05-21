@@ -1,0 +1,28 @@
+.brand-name {
+ font-family: 'Josefin Slab', serif;
+ font-size: 47px;
+ font-weight: bold;
+ color: #444;
+ text-decoration: none;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+#background
+{
+    background-image:url(/static/images/car1.png);
+    background-color: lightpink;
+    background-repeat: no-repeat;
+}
+.content
+{
+    position: absolute;
+    left:600px;
+    top:200px;
+}
+.bcolor
+{
+    background-color: lightgreen;
+}

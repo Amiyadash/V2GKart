@@ -1,0 +1,1 @@
+$interpolateProvider.startSymbol('[['.endSymbol(']]'));
